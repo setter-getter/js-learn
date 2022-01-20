@@ -31,3 +31,8 @@ Basics
 - Значение «undefined»
 - Объекты и символы
 - Оператор typeof
+
+6-alert_prompt_confirm
+- alert
+- prompt
+- confirm
