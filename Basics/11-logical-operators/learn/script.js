@@ -123,10 +123,22 @@
 //   alert( 'Greater than zero!' );
 // }
 
+//!
+// Сначала приводит аргумент к логическому типу true/false.
+// Затем возвращает противоположное значение.
 
 
+// alert( !true ); // false
+// alert( !0 ); // true
 
 
+// В частности, двойное НЕ !! 
+// используют для преобразования значений к логическому типу:
 
+// alert( !!"non-empty string" ); // true
+// alert( !!null ); // false
 
+//тоже самое делает
 
+// alert( Boolean("non-empty string") ); // true
+// alert( Boolean(null) ); // false
