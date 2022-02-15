@@ -1,5 +1,5 @@
 # Изучение JavaScript
-Задания с сайта https://learn.javascript.ru/
+Задания с сайта: https://learn.javascript.ru/
 
 
 Basics
