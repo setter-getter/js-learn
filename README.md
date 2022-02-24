@@ -112,3 +112,7 @@ Basics
 - Возврат значения
 - Выбор имени функции
 - Функции == Комментарии
+
+16-function-expressions
+- Функции-«колбэки»
+- Function Expression в сравнении с Function Declaration
