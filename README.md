@@ -116,3 +116,8 @@ Basics
 16-function-expressions
 - Функции-«колбэки»
 - Function Expression в сравнении с Function Declaration
+
+
+17-arrow-functions-basics
+- Функции-стрелки, основы
+- Многострочные стрелочные функции
