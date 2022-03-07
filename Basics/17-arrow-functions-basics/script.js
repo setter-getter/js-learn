@@ -8,7 +8,7 @@
 //~ };
 
 
-let sum = (a, b) => a + b;
+//~ let sum = (a, b) => a + b;
 
 /* Более короткая форма для:
 
@@ -17,14 +17,14 @@ let sum = function(a, b) {
 };
 */
 
-alert( sum(1, 2) ); // 3
+//~ alert( sum(1, 2) ); // 3
 
 
-// тоже что и
-// let double = function(n) { return n * 2 }
-let double = n => n * 2;
+//~ // тоже что и
+//~ // let double = function(n) { return n * 2 }
+//~ let double = n => n * 2;
 
-alert( double(3) ); // 6
+//~ alert( double(3) ); // 6
 
 
 
